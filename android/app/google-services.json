@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841084457590",
+    "project_id": "go-recipes-2024-56746",
+    "storage_bucket": "go-recipes-2024-56746.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841084457590:android:7943858d2dcc2590ed0557",
+        "android_client_info": {
+          "package_name": "com.example.go_recipes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs6_BSxoFb6DoXnA5OaCIigjUeHKMahE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
